@@ -315,29 +315,11 @@ movie_payments.html>
 
 
 
-        const seats = document.querySelectorAll(".seat");
 
-        let booking_history = JSON.parse(localStorage.getItem("booking_history"));
-
-
-       let seatss= seats.forEach((el) => {
-
-            for (i = 0; i < booking_history.length; i++) {
-
-                let seat = booking_history[i].seat_name.split(",");
-
-                
-                if (movie_name == res.name.movie_name && theater_name == booking_history[i].theatre_name && show_time == booking_history[i].show_time && show_date == booking_history[i].show_date && show_day == booking_history[i].show_day && show_month == booking_history.show_month) {
-
-                
-                }
-
-
-            }
 
             
 
-        })
+        
 
 
         seats.forEach(seat => {
