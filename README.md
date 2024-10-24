@@ -1,7 +1,7 @@
 # Lets-show--project
 About my project: this my 100 days project ,
-i helping to peoples easy to get cinema tickets in online ,
-and i add new feature cab also book there.
+i helping to peoples easy to get cinema tickets in online.
+
 
 live server:https://freakysaran.github.io/Lets-show-100-days-project/
 
